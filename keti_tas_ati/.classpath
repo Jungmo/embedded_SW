@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/AhnMo/Google 드라이브/Univ_2016-1_5/임베디드소프트웨어/팀/nCube자료/TAS/tas_raspberry4.0/dependency/pi4j-core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
