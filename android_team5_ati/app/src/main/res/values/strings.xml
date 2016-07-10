@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="text1">Input URL</string>
+    <string name="download">Download</string>
+    <string name="network_error">Network Inavaliable</string>
+    <string name="bad_url">Bad Url</string>
+</resources>

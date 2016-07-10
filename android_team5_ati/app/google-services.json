@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1048658288131",
+    "project_id": "loyal-saga-134011"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048658288131:android:1c173500c1f6ac22",
+        "android_client_info": {
+          "package_name": "com.hms.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaG1ItPPvAy4US83waWDIO3L8aN9YDUL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
